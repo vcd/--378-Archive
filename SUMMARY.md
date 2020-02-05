@@ -21,7 +21,10 @@
 * [SVG Primer](svg/svg-primer.md)
 * [Core Concepts](svg/core-concepts.md)
 * [Create/Get SVG](svg/create-get-svg.md)
-* [Animation with GreenSock](svg/animate-with-greensock.md)
+* [Animation with GreenSock \(GSAP\)](svg/animate-with-greensock/README.md)
+  * [Setup](svg/animate-with-greensock/setup.md)
+  * [Tweening](svg/animate-with-greensock/tweening.md)
+  * [Event Controls](svg/animate-with-greensock/event-controls.md)
 * [SVG References](svg/svg-references.md)
 
 ## JavaScript
