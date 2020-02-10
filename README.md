@@ -2,11 +2,14 @@
 
 ## Professor Pen
 
-C[odePen's Master Professor pen](https://codepen.io/manikoth/professor/WNbLEpy)
+[CodePen's Master Professor pen](https://codepen.io/manikoth/professor/WNbLEpy)
 
 ## Office Hours Remote
 
-[WhereBy/Manikoth](https://whereby.com/manikoth)
+* Mon/Wed: 11-12pm
+* Tue/Thur: 9-10am
+* Friday by Appointment
+* [Go to: WhereBy/Manikoth](https://whereby.com/manikoth)
 
 ## YouTube Channel
 
