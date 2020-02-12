@@ -25,6 +25,7 @@
   * [Setup](svg/animate-with-greensock/setup.md)
   * [Tweening](svg/animate-with-greensock/tweening.md)
   * [Event Controls](svg/animate-with-greensock/event-controls.md)
+  * [Timelines](svg/animate-with-greensock/timelines.md)
 * [SVG References](svg/svg-references.md)
 
 ## JavaScript
