@@ -43,6 +43,7 @@
   * [3. Practice on CodePen](projects/movie-trailer/3.-practice-on-codepen.md)
   * [4. Apply to GitHub](projects/movie-trailer/4.-apply-to-github.md)
   * [5. Feedback & Iteration](projects/movie-trailer/5.-feedback-and-iteration.md)
+  * [6. Version 2.0](projects/movie-trailer/6.-version-2.0.md)
 * [Google Doodle](projects/google-doodle/README.md)
   * [1. Overview](projects/google-doodle/1.-overview.md)
   * [2. Art Direction](projects/google-doodle/2.-art-direction.md)
