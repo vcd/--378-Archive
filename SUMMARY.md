@@ -28,12 +28,6 @@
   * [Timelines](svg/animate-with-greensock/timelines.md)
 * [SVG References](svg/svg-references.md)
 
-## JavaScript
-
-* [Functions](javascript/functions.md)
-* [Variables](javascript/variables.md)
-* [Data Types](javascript/data-types.md)
-
 ## Projects
 
 * [Web 2 Framework](projects/web-2-framework.md)
@@ -49,6 +43,16 @@
   * [2. Art Direction](projects/google-doodle/2.-art-direction.md)
   * [3. Practice on CodePen](projects/google-doodle/3.-practice-on-codepen.md)
   * [4. Apply to GitHub](projects/google-doodle/4.-apply-to-github.md)
+* [User Interface \(UI\) Patterns](projects/user-interface-ui-patterns/README.md)
+  * [404 page](projects/user-interface-ui-patterns/404-page.md)
+  * [Randomizer](projects/user-interface-ui-patterns/randomizer.md)
+  * [Character Splitting](projects/user-interface-ui-patterns/character-splitting.md)
+  * [Form Validation](projects/user-interface-ui-patterns/form-validation.md)
+  * [View Switcher](projects/user-interface-ui-patterns/view-switcher.md)
+  * [Lightbox Gallery](projects/user-interface-ui-patterns/lightbox-gallery.md)
+  * [Menu Slider](projects/user-interface-ui-patterns/menu-slider.md)
+  * [Tabs](projects/user-interface-ui-patterns/tabs.md)
+  * [Slider](projects/user-interface-ui-patterns/slider.md)
 
 ## Web 1 Redux
 
