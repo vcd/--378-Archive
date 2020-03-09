@@ -50,9 +50,8 @@
   * [Form Validation](projects/user-interface-ui-patterns/form-validation.md)
   * [View Switcher](projects/user-interface-ui-patterns/view-switcher.md)
   * [Lightbox Gallery](projects/user-interface-ui-patterns/lightbox-gallery.md)
-  * [Menu Slider](projects/user-interface-ui-patterns/menu-slider.md)
-  * [Tabs](projects/user-interface-ui-patterns/tabs.md)
   * [Slider](projects/user-interface-ui-patterns/slider.md)
+  * [Tabs](projects/user-interface-ui-patterns/tabs.md)
 
 ## Web 1 Redux
 

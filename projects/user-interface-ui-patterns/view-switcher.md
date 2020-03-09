@@ -14,6 +14,10 @@
   * Note: Future websites will [use media queries](https://css-tricks.com/dark-modes-with-css/)
 * [Grid View / List View](https://codepen.io/manikoth/pen/vYOeGyK)
 
+### JS Library
+
+* Pen: [Filtering with Isotope](https://codepen.io/manikoth/pen/mdJqLZb)
+
 ### Even More Examples
 
 * [Coden: Dark Mode](https://codepen.io/topic/darkmode/picks)
